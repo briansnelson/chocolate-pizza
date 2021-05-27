@@ -1,0 +1,91 @@
+/* header */
+header {
+  width: 960px;
+  margin: auto;
+}
+
+#mainlogo {
+  margin-top: 30px;
+}
+
+h2 {
+  display: inline-block;
+}
+
+.headfirstlist {
+  margin-top: 55px;
+  margin-right: 10px;
+  display: inline;
+  float: right;
+}
+
+.headfirstlist li {
+  display: inline;
+}
+
+.headsecondlist {
+  margin-top: 55px;
+  display: inline;
+  float: right;
+}
+
+.headsecondlist li {
+  display: inline;
+}
+
+#lineborder {
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  }
+  
+#line {
+  width: 1%;
+  height: 1%;
+  } 
+
+/* main */
+main {
+  width: 960px;
+  margin: auto;
+}
+
+h1 {
+  display: inline-block; 
+}
+
+#printicon {
+  display: inline;
+  float: right;
+  width: 2%;
+  height: 2%;
+  margin-top: 15px;
+}
+#print {
+  display: inline;
+  float: right;
+  margin-top: 15px;
+}
+
+#mainphoto {
+  margin-top: 40px;
+  margin-bottom: 30px;
+  width: 100%;
+}
+
+.instructions p {
+  padding: 10px 0px;
+  width: fit-content;
+  text-indent: 30px;
+}
+
+#notebook {
+  padding: 30px 0px;
+  width: 100%;
+}
+
+.notebooklist li {
+  
+}
+
+/* footer */
